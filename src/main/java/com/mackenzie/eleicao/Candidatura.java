@@ -1,6 +1,6 @@
 package com.mackenzie.eleicao;
 
-/**
+/** commit para executar teste integrado
  * Regra de negócio simples para aprovação de candidaturas:
  * - Deve gostar de animais (gostaAnimais == true)
  * - Deve ter idade estritamente maior que 18 anos (idade > 18)
