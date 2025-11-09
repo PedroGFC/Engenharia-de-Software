@@ -1,0 +1,7 @@
+# Não copiar node_modules nem resultados de build para dentro da imagem
+node_modules
+build
+
+# Ignora estes próprios arquivos
+.dockerignore
+Dockerfile

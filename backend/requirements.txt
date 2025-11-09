@@ -1,0 +1,8 @@
+# backend/requirements.txt
+fastapi==0.109.2
+uvicorn==0.27.1
+pymysql==1.1.0
+python-dotenv==1.0.1
+cryptography
+python-jose[cryptography]
+passlib[bcrypt]

@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+**/node_modules/
+build/
+dist/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
