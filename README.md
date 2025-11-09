@@ -14,14 +14,13 @@ O **Tempo Bem Gasto** é uma plataforma de rede social que:
 ## 🚀 Funcionalidades  
 
 ### 👥 Voluntários  
-- 🔍 Busca de vagas **por categoria (educação, meio ambiente, saúde, etc.)**
-- 📌 Favoritar oportunidades e receber notificações  *<- TODO*
-- 📊 Dashboard pessoal com histórico de participações  *<- TODO*
+- Busca de vagas
+- Criar conta
+
 
 ### 🏢 ONGs  
-- ✨ Publicação de vagas com descrição, requisitos e datas  *<- TODO*
-- 👀 Visualização de candidatos e aprovação/rejeição  
-- 📈 Relatórios de engajamento (número de voluntários, horas doadas)  *<- TODO*
+- Publicação de vagas com descrição, requisitos e datas
+- Cadastrar ONG (CNPJ)
 
 ---
 
