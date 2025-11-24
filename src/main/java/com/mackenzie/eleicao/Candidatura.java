@@ -1,7 +1,7 @@
 package com.mackenzie.eleicao;
 
 /**
- * Regra de negócio simples para aprovação de candidaturas: teste
+ * Regra de negócio simples para aprovação de candidaturas: testelll
  * - Deve gostar de animais (gostaAnimais == true)
  * - Deve ter idade estritamente maior que 18 anos (idade > 18)
  *
